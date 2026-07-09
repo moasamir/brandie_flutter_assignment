@@ -88,6 +88,122 @@ flutter run
 
 ---
 
+# 📱 App Screenshots
+
+Below are screenshots showcasing the complete Quick Share workflow, including onboarding, AI content generation, smart post feed, caption editing, social sharing, search, messaging, and profile screens.
+
+---
+
+## 🚀 Instagram Splash Screen
+
+<p align="center">
+  <img src="screenshots/social_media_splash_screen.jpeg" width="250"/>
+</p>
+
+---
+
+## 🤖 AI Content Generation
+
+<p align="center">
+  <img src="screenshots/open_app_loading.jpeg" width="250"/>
+  <img src="screenshots/loader_work.jpeg" width="250"/>
+</p>
+
+---
+
+## 🏠 Home Feed
+
+<p align="center">
+  <img src="screenshots/home_page.jpeg" width="250"/>
+</p>
+
+---
+
+## 💄 Product Preview
+
+<p align="center">
+  <img src="screenshots/product_1.jpeg" width="250"/>
+</p>
+
+---
+
+## 🛍️ Product Details
+
+<p align="center">
+  <img src="screenshots/see_product.jpeg" width="250"/>
+</p>
+
+---
+
+## 🔗 Store Redirect
+
+<p align="center">
+  <img src="screenshots/shear_link_product.jpeg" width="250"/>
+</p>
+
+---
+
+## ✏️ Edit Caption
+
+<p align="center">
+  <img src="screenshots/edit_caption.jpeg" width="250"/>
+</p>
+
+---
+
+## ✅ Save Updated Caption
+
+<p align="center">
+  <img src="screenshots/save_caption.jpeg" width="250"/>
+</p>
+
+---
+
+## 🔍 Search Screen
+
+<p align="center">
+  <img src="screenshots/search_page.jpeg" width="250"/>
+</p>
+
+---
+
+## 💬 Community Messages
+
+<p align="center">
+  <img src="screenshots/message_page.jpeg" width="250"/>
+</p>
+
+---
+
+## 👤 User Profile
+
+<p align="center">
+  <img src="screenshots/profile_page.jpeg" width="250"/>
+</p>
+
+---
+
+## 🚀 Rocket Page
+
+<p align="center">
+  <img src="screenshots/rocket_page.jpeg" width="250"/>
+</p>
+
+---
+
+## ✨ Highlights
+
+- Pixel-perfect implementation based on the provided Figma design.
+- Clean Architecture with modular feature separation.
+- Responsive UI for different screen sizes.
+- Vertical and Horizontal PageView implementation.
+- Auto-playing video support.
+- Custom AI loading animations.
+- Glassmorphism UI components.
+- Interactive caption editor.
+- Simulated social media sharing flow.
+- Professional Flutter code structure and reusable widgets.
+
 ## 📌 Assumptions
 
 - The application uses hardcoded data as requested in the assignment.
